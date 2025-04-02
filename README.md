@@ -1,4 +1,4 @@
-# Super_Sales Dashboard
+# Super_Sales And Forecasting Dashboard
 
 ## Project Objective
 
